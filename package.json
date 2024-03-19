@@ -1,0 +1,29 @@
+{
+  "name": "layer-v11",
+  "version": "1.0.0",
+  "description": "A Node.js module for colorful text and generating random colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l06503868/layer-v11"
+  },
+  "dependencies": {
+	  "lisacollins": "1.0.0",
+"petrivany": "1.0.0",
+"lenovpaha": "1.0.0",
+"glushkivan": "1.0.0",
+"dorothymoore": "1.0.0",
+"farmaniyah-mod": "1.0.0",
+"ls-v1": "1.0.0",
+    "chalk": "^4.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l06503868/layer-v11/issues"
+  },
+  "homepage": "https://github.com/l06503868/layer-v11#readme"
+}
